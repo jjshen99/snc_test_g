@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="App_G Table" language="en" table="sn_app_g_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>App_G Table</label>
+            <language>en</language>
+            <name>sn_app_g_table</name>
+            <plural>App_G Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2015-12-02 19:27:44</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>68a295128f001200db77e8c537bdee35</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>App_G Table</sys_name>
+            <sys_package display_value="App_G" source="sn_app_g">b79255128f001200db77e8c537bdee9c</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="App_G">b79255128f001200db77e8c537bdee9c</sys_scope>
+            <sys_update_name>sys_documentation_sn_app_g_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2015-12-02 19:27:44</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
